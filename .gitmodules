@@ -1,0 +1,3 @@
+[submodule "poke-battle-sim"]
+	path = poke-battle-sim
+	url = https://github.com/Andrerg01/poke-battle-sim
